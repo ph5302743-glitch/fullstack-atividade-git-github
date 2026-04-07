@@ -1,3 +1,4 @@
+//Calculando a área de um quadrado//
 function areaQuadrada(lado) {
     return lado * lado;
 }
